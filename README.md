@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Writing into deployment 
 
 ##How to Contribute
+
+##Copyright
+
+2020@oju
