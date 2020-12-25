@@ -12,6 +12,8 @@ Writing into deployment
 
 ##How to Contribute
 
+contribute to the project by forking original one
+
 ##Copyright
 
 2020@oju
