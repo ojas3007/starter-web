@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Adding one line for rebase example
+This repository is for showing how Git and GitHub work. Adding one line for rebase example, adding oneline more from myfeature branch
 
 ## Purpose
 
